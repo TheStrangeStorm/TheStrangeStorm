@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on something private, may or may not make it public.
+I'm currently working on something private, may or may not make it public. A lot of my useful repos are private.
 
 
 ## 🌐 Socials:
